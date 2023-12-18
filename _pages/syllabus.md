@@ -45,10 +45,14 @@ We will have lectures on Monday, Wednesday, Thursday.
 - Lecture 5: Diophantine Equations
 - Lecture 6: Wrap Up: Results in Theoretical Computer Science. 
 
+## GRADING
+There are two possible grading schemes, and whichever yields a maximum output will be used. The passing grade in the class will be 60%. 
 
-### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (30%)</font>
-There will be approximately four homework assignments. The schedule will be posted later. 
+### <font color="#5B90E0">HOMEWORK ASSIGNMENTS</font>
+There will be approximately four homework assignments, equally weighed. These will count for at least 75% of your grade. 
 
+### <font color="#5B90E0">SCRIBING (25%)</font>
+Each registered student will have the option to scribe lecture notes for a lecture or two, counting up to 25% of their grade. 
 
 ## RESOURCES
 **To be completed.**
@@ -74,4 +78,4 @@ As a reminder, if a student cheats, it is not only harmful to one's own educatio
 Ethical behavior is an important trait of anyone who works in the fields of Computer Science, Machine Learning, Data Science, NLP -- from ethically handling data, to thinking of the ramifications of one’s models, to attribution of code and work of others. Thus, in this course, we place strong emphasis on Academic Honesty.
 
 ### COMMUNICATION FROM STAFF TO STUDENTS
-Class announcements will be through this website, and through mailing. 
+Class announcements will be through this website, and through mailing lists. 
