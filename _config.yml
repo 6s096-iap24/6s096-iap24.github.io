@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: 6.861* Quantitative Methods for NLP
+name: 6.S096 - Number Theory - ALL YOU NEED TO KNOW!
 
 # Name of the author
-author: Yoon Kim, Jacob Andreas, and Chris Tanner
+author: A. Anas Chentouf, Mohamed Wacyl Meddour, Mohammed Ali Othman. 
 
 # Short bio or description (displayed in the header)
-description: Advanced NLP
+description: Number Theory for CS
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/mit_logo_resized.png
@@ -21,7 +21,7 @@ avatar: /images/mit_logo_resized.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: nlp-staff-fa23@mit.edu
+  email: 6.s096-iap24-staff@mit.edu
   facebook:
   flickr:
   github: 
