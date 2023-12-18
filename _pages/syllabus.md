@@ -26,7 +26,7 @@ You will program using (a) **Python** and/or (b) **Sage**, extensively. We do no
 ## COURSE STRUCTURE
 The main delivery of information will be via **Lectures** and **Problem Sets**. In lecture, we will cover important foundations and some results, which will be cemented and complemented through **Problem Sets**. There will be additional readings and/or pre-recorded lectures before the course begins so everyone is up to date on the same content. 
 
-### LECTURES
+### Problem Sessions
 
 
 Starting January 15: 
@@ -34,6 +34,8 @@ We will operate an inverted model for a week, with assigned reading materials re
 - Problem Session 1 (Monday January 15): Modular Arithmetic
 - Problem Session 2 (Wednesday January 17): Euler and Fermat's Theorems
 - Problem Session 3 (Thursday January 18): More Elementary Number Theory
+
+### Lectures
 
 Starting January 22: 
 We will have lectures on Monday, Wednesday, Thursday. 
