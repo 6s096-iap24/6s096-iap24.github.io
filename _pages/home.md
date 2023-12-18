@@ -35,16 +35,11 @@ The assessments will consist of weekly homeworks with a small final project. The
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
-- **Mondays:** 4pm - 5:30pm in 36-156
-- **Tuesdays:** 3pm - 4:30pm in 36-155
-- **Wednesdays:** 3pm - 4:30pm in 34-301
-- **Fridays:** 3pm - 4:30pm in 24-115
+- Will be updated soon. 
 
 
 ### GRADING
-- **Foundation:** Mid-term exam: 25% (Oct 31)
-- **Foundation & Application:** Homework assignments: 30% (3 HWs, roughly two weeks for each)
-- **Creating New Knowledge:** [Research Project](project): 45% (twelve weeks)
+- Will be updated soon. 
 
 ## QUICK ACCESS
 
