@@ -21,7 +21,7 @@ By the end of the course, you will be able to:
 - **Proof Writing**: Strong grasp of Proofs by induction, contradiction, etc... Similar to <font color="#31493C"><b>18.062/6.1200 (6.042)6</b></font> and <font color="#31493C"><b>18.090</b></font>. 
 - **Programming**: knowledge of a programming language (esp. Python) recommended but not required.
 ## SOFTWARE
-You will program using (a) **Python** and/or (b) **Sage**, extensively. We do not expect you to know Sage, but we do expect some familiarity with Python. If you are not already familiar with Python, you will be expected to learn a bit it on your own. 
+You will program using (a) **Python** and/or (b) **Sage**, extensively. We do not expect you to know Sage, but we do expect some familiarity with Python. If you are not already familiar with Python, you will be expected to learn a bit on your own. 
 
 ## COURSE STRUCTURE
 The main delivery of information will be via **Lectures** and **Problem Sets**. In lecture, we will cover important foundations and some results, which will be cemented and complemented through **Problem Sets**. There will be additional readings and/or pre-recorded lectures before the course begins so everyone is up to date on the same content. 
