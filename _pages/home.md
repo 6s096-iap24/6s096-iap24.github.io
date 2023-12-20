@@ -53,4 +53,4 @@ Please pre-register! The class is offered as a U/G class and will be graded on a
 For 6.S096, you need experience and skill with mathematical concepts, theorems, and proofs.  If you did well in 18.062/6.042, 18.200, 18.090, or any proof-oriented mathematics class, you should be fine! Some exposure to elementary number theory (modular arithmetic) and programming (e.g. Python) is also strongly recommended but not required. We also  _based on 18.404's recommended background_
 
 ### COURSE NAME
-We acknowledge that "Number Theory - All you need to know" is for publicity. A better should hopefully be "Number Theory - All you need to know to be more interested", or "Number Theory for CS Crash Course".
+Disclaimer: The course title "Number Theory – All You Need to Know" is intended for promotional purposes. While the class covers a wide range of topics in the field, its main goal is to spark your interest and curiosity in the subject.
