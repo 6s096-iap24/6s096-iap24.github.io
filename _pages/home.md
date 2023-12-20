@@ -54,3 +54,8 @@ For 6.S096, you need experience and skill with mathematical concepts, theorems, 
 
 ### COURSE NAME
 Disclaimer: The course title "Number Theory – All You Need to Know" is intended for promotional purposes. While the class covers a wide range of topics in the field, its main goal is to spark your interest and curiosity in the subject.
+
+### ACKNOWLEDGEMENT
+This website is based on the template from https://mit-6861.github.io/
+
+
