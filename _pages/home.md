@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 ## OVERVIEW
-Welcome to 6.S096! We are excited to have you in class this IAP. 
+Welcome to 6.S096! We are really excited to have you in class this IAP. 
 
 
 ### DESCRIPTION
