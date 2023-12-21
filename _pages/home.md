@@ -39,7 +39,8 @@ The assessments will consist of weekly homeworks with a small final project. The
 
 
 ### GRADING
-- Will be updated soon. 
+- 100% psets or 70% psets and 30% a mini-expository paper abut a topic you learned (graded on completion) - whichever is best for the student.
+- The cutoff for passing is 60%.
 
 ## QUICK ACCESS
 
