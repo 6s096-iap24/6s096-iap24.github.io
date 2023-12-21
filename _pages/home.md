@@ -12,7 +12,7 @@ Many applications in cryptography and theoretical computer science rely on numbe
 
 The assessments will consist of weekly homeworks with a small final project. The expectation is that students have taken 6.042/6.1200 or a class at a similar level in discrete mathematics, as well as some coding experience.
 
-## SIGN-UP FORM
+### SIGN-UP FORM
 https://docs.google.com/forms/d/e/1FAIpQLSewiD9qGmQHLxBN-ix8XW_LONhyYkEeHPh_PxV24JpQbjHsaw/viewform?usp=sf_link
 
 ## STAFF
