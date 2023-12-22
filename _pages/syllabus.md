@@ -50,10 +50,10 @@ We will have lectures on Monday, Wednesday, Thursday.
 ## GRADING
 There are two possible grading schemes, and whichever yields a maximum output will be used. The passing grade in the class will be 60%. 
 
-### <font color="#5B90E0">HOMEWORK ASSIGNMENTS</font>
+### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (70%)</font>
 There will be approximately four homework assignments, equally weighed. These will count for at least 75% of your grade. 
 
-### <font color="#5B90E0">SCRIBING (25%)</font>
+### <font color="#5B90E0">SCRIBING (30%)</font>
 Each registered student will have the option to scribe lecture notes for a lecture or two, counting up to 25% of their grade. 
 
 ## RESOURCES
