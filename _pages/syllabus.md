@@ -11,9 +11,9 @@ While we may not see it, the vast field of number theory is all around us. From 
 
 ## LEARNING OBJECTIVES
 By the end of the course, you will be able to:
-- master the basics of modular arithmetic
-- express the elementary results of modular arithmetic in the language of groups. 
-- tackle your own, novel goals with text data once this course is over (e.g., if you have downloaded thousands of tweets over the past week, you’ll be able to come up with reasonable solutions to (1) identify sentiments about any phrase; (2) make classification predictions; (3) identify aliases for any entity, and much more)
+- master the basics of modular arithmetic,
+- express the elementary results of modular arithmetic in the language of groups,
+- use the language of group theory with comfort.
 
 
 ## PREREQUISITES
