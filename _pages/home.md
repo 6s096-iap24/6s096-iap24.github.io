@@ -34,7 +34,7 @@ Please fill in this google form if you're interested in the class so we can gaug
 
 ## LOGISTICS
 ### LECTURE
-- Starting from Monday, January 22: Lectures Monday through Thursday @ 1pm - 2:30pm in 32.123 (may change locations, depending on enrollment)
+- Starting from Monday, January 22: Lectures Tuesday through Thursday @ 10:30am - 12pm in 34.303 (may change locations, depending on enrollment)
 - Lectures are in-person and over Zoom, but will *not* be recorded, although lecture notes will be released.
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
