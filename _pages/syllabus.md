@@ -51,10 +51,10 @@ We will have lectures on Tuesday, Wednesday, Thursday in building 34.303 from 10
 There are two possible grading schemes, and whichever yields a maximum output will be used. The passing grade in the class will be 60%. 
 
 ### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (70%)</font>
-There will be approximately four homework assignments, equally weighed. These will count for at least 75% of your grade. 
+There will be approximately four homework assignments, equally weighed. These will count for at least 70% of your grade. 
 
 ### <font color="#5B90E0">SCRIBING (30%)</font>
-Each registered student will have the option to scribe lecture notes for a lecture or two, counting up to 25% of their grade. 
+Each registered student will have the option to write a small 2 page 'expository note' (which may be build slightly on lecture notes) counting up to 30% of their grade. 
 
 ## RESOURCES
 **To be completed.**
@@ -65,19 +65,3 @@ Each registered student will have the option to scribe lecture notes for a lectu
 Students are encouraged to consistently read lecture notes and actively participate in discussions (**Piazza**) This is intended to be a shared learning environment for all students in the class. 
 
 Teaching Staff will hold scheduled **Office Hours** throughout every week. They will be a fun, interactive time to ask questions. 
-
-## COURSE POLICIES
-### COLLABORATION POLICY
-<!-- <span style="background-color: #FFFF00"><b>The homework assignments must be conducted individually.</b></span> However, no single student should feel alone in the course. So, we encourage you to talk with and discuss the assignments with your fellow classmates, but this must be at the _conceptual_ level. That is, <span style="background-color: #FFFF00">no student should ever see another student's solutions or code. Your code must be written exclusively by you. If you post or share your homework assignment online (even if it only contains the questions and not solutions), this violates our academic policy and you will be reported to the university. This includes posting your assignment on GitHub. Do not do this.</span> In other words, your homework assignment is a private copy that only you can see. If you're unsure if something is allowed, please speak with us first. Any violation to the above constitutes Academic Dishonesty and will be reported. -->
-<!--   
-We discourage you from using publicly-available code online, as you'll learn more if you write your code from scratch. However, **if you find useful code online that you wish to use, that is perfectly fine, but you must cite it.**
-
-**We do not allow using Generative AI (e.g., ChatGPT, Copilot, etc). Evidence of such will voilate our academic pollicy.**
-
-As a reminder, if a student cheats, it is not only harmful to one's own education but it also impacts everyone else in the course -- as it creates an unfair environment and sacrifices the integrity of the entire course. For this reason, we actively check to ensure your code hasn't been plagiarized or posted online. -->
-  
-### ACADEMIC HONESTY
-Ethical behavior is an important trait of anyone who works in the fields of Computer Science, Machine Learning, Data Science, NLP -- from ethically handling data, to thinking of the ramifications of one’s models, to attribution of code and work of others. Thus, in this course, we place strong emphasis on Academic Honesty.
-
-### COMMUNICATION FROM STAFF TO STUDENTS
-Class announcements will be through this website, and through mailing lists. 
