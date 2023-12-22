@@ -38,13 +38,13 @@ We will operate an inverted model for a week, with assigned reading materials re
 ### Lectures
 
 Starting January 22: 
-We will have lectures on Monday, Wednesday, Thursday. 
+We will have lectures on Tuesday, Wednesday, Thursday in building 34.303 from 10:30am to 12pm. We will take a short break in the middle.  
 
 - Lecture 1: Quadratic Residues, Primitive Roots
 - Lecture 2: Group Theory; with a focus on the previous content and Elliptic Curves
 - Lecture 3: Integers, Prime Numbers, and More. 
 - Lecture 4: Introduction to Cryptography
-- Lecture 5: Diophantine Equations
+- Lecture 5: Fourier Analysis and Finite Abelian Groups (Signal Processing)
 - Lecture 6: Wrap Up: Results in Theoretical Computer Science. 
 
 ## GRADING
