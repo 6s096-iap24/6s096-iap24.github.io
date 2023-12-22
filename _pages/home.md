@@ -10,10 +10,10 @@ Welcome to 6.S096! We are really excited to have you in class this IAP.
 ### DESCRIPTION
 Many applications in cryptography and theoretical computer science rely on number theory, which is often not taught in introductory classes. In this class, we try to teach these concepts. We begin with a quick review of the basics: Euclidean algorithm and modular arithmetic. We will then cover multiplicative modular arithmetic (Euler, Fermat), elements of group theory, the discrete logarithm problem, and elementary analytic number theory if time permits. There will be a focus on computational methods as well, using Sage and other Computer Algebra Systems.
 
-The assessments will consist of weekly homeworks with a small final project. The expectation is that students have taken 6.042/6.1200 or a class at a similar level in discrete mathematics, as well as some coding experience.
+The assessments will consist of weekly homeworks with a small, optional final project. The expectation is that students have taken 6.042/6.1200 or a class at a similar level in discrete mathematics, as well as some coding experience.
 
 ### SIGN-UP FORM
-https://forms.gle/HKUuC7LAyuQXN3NN8
+Please fill in this google form if you're interested in the class so we can gauge interest <a href="https://forms.gle/HKUuC7LAyuQXN3NN8">https://forms.gle/HKUuC7LAyuQXN3NN8</a>
 
 
 ## STAFF
