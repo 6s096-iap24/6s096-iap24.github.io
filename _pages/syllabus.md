@@ -31,7 +31,7 @@ The main delivery of information will be via **Lectures** and **Problem Sets**. 
 
 Starting January 15: 
 We will operate an inverted model for a week, with assigned reading materials released, and then three two-hour problem solving sessions. 
-- Problem Session 1 (Monday January 15): Modular Arithmetic
+- Problem Session 1 (Tuesday January 15): Modular Arithmetic
 - Problem Session 2 (Wednesday January 17): Euler and Fermat's Theorems
 - Problem Session 3 (Thursday January 18): More Elementary Number Theory
 
@@ -41,11 +41,11 @@ Starting January 22:
 We will have lectures on Tuesday, Wednesday, Thursday in building 34.303 from 10:30am to 12pm. We will take a short break in the middle.  
 
 - Lecture 1: Quadratic Residues, Primitive Roots
-- Lecture 2: Group Theory; with a focus on the previous content and Elliptic Curves
-- Lecture 3: Integers, Prime Numbers, and More. 
-- Lecture 4: Introduction to Cryptography
-- Lecture 5: Fourier Analysis and Finite Abelian Groups (Signal Processing)
-- Lecture 6: Wrap Up: Results in Theoretical Computer Science. 
+- Lecture 2: Group Theory; with a focus on the previous content 
+- Lecture 3: Introduction to Cryptography (and some Elliptic Curves)
+- Lecture 4: Fourier Analysis on Finite Abelian Groups (Signal Processing)
+- Lecture 5: Integers, Prime Numbers, and More. 
+- Lecture 6: Wrap Up: Bonus Results in Theoretical Computer Science. 
 
 ## GRADING
 There are two possible grading schemes, and whichever yields a maximum output will be used. The passing grade in the class will be 60%. 
