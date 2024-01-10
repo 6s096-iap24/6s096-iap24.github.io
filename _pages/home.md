@@ -34,7 +34,7 @@ Please fill in this google form if you're interested in the class so we can gaug
 
 ## LOGISTICS
 ### LECTURE
-- Starting from Monday, January 22: Lectures Tuesday through Thursday @ 10:30am - 12pm in 34.303 (may change locations, depending on enrollment)
+- Starting from Monday, January 22: Lectures Tuesday through Thursday @ 10:30am - 12pm in 32.255 (note the updated enrollment)
 - Lectures are in-person and over Zoom, but will *not* be recorded, although lecture notes will be released.
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
@@ -52,7 +52,7 @@ Please fill in this google form if you're interested in the class so we can gaug
 - [Contacting Instructors](mailto:6s096-iap24@mit.edu): for concerns, issues, and questions (not course content). Note that there is *no* period in 6s096 in the email address.
 
 ## ENROLLMENT
-Please pre-register! The class is offered as a U/G class and will be graded on a P/F basis. 
+Please pre-register! The class is offered as a U/G class and will be graded on a P/F basis for 6 units. 
 
 ### PREREQUISITES 
 For 6.S096, you need experience and skill with mathematical concepts, theorems, and proofs.  If you did well in 18.062/6.042, 18.200, 18.090, or any proof-oriented mathematics class, you should be fine! Some exposure to elementary number theory (modular arithmetic) and programming (e.g. Python) is also strongly recommended but not required. We  _based these on 18.404's recommended background_
