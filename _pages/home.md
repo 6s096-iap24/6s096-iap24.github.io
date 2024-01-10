@@ -12,8 +12,14 @@ Many applications in cryptography and theoretical computer science rely on numbe
 
 The assessments will consist of weekly homeworks with a small, optional final project. The expectation is that students have taken 6.042/6.1200 or a class at a similar level in discrete mathematics, as well as some coding experience.
 
+### Piazza
+This class will be using Piazza for class discussion. We encourage you to post your questions (whether about content or logistics) on Piazza. 
+
+The class sign-up link: https://piazza.com/mit/spring2024/6s096
+
 ### SIGN-UP FORM
 Please fill in this google form if you're interested in the class so we can gauge interest <a href="https://forms.gle/HKUuC7LAyuQXN3NN8">https://forms.gle/HKUuC7LAyuQXN3NN8</a>
+
 
 
 ## STAFF
