@@ -45,7 +45,7 @@ Please fill in this google form if you're interested in the class so we can gaug
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
 
 ### OFFICE HOURS
-- Will be updated soon. 
+- See Piazza for details. 
 
 
 ### GRADING
@@ -53,8 +53,6 @@ Please fill in this google form if you're interested in the class so we can gaug
 - The cutoff for passing is 60%.
 
 ## QUICK ACCESS
-
-- [Project Ideas (coming soon)](): on-going spreadsheet to collaboratively find and create research projects
 - [Contacting Instructors](mailto:6s096-iap24@mit.edu): for concerns, issues, and questions (not course content). Note that there is *no* period in 6s096 in the email address.
 
 ## ENROLLMENT
@@ -67,6 +65,6 @@ For 6.S096, you need experience and skill with mathematical concepts, theorems, 
 Disclaimer: The course title "Number Theory – All You Need to Know" is intended for promotional purposes. While the class covers a wide range of topics in the field, its main goal is to spark your interest and curiosity in the subject. In many ways, 'Applied Group Theory' is also an accurate name for most of the class. 
 
 ### ACKNOWLEDGEMENT
-This website is based on the excelelnt website template from MIT's Quantitative NLP course - https://mit-6861.github.io/
+This website is based on the excellent website template from MIT's Quantitative NLP course - https://mit-6861.github.io/
 
 
