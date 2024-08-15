@@ -51,15 +51,10 @@ We will have lectures on Tuesday, Wednesday, Thursday in building 34.303 from 10
 There are two possible grading schemes, and whichever yields a maximum output will be used. The passing grade in the class will be 60%. 
 
 ### <font color="#5B90E0">HOMEWORK ASSIGNMENTS (70%)</font>
-There will be approximately four homework assignments, equally weighed. These will count for at least 70% of your grade. 
+There will be three homework assignments, equally weighed. These will count for at least 70% of your grade. 
 
-### <font color="#5B90E0">SCRIBING (30%)</font>
-Each registered student will have the option to write a small 2 page 'expository note' (which may be build slightly on lecture notes) counting up to 30% of their grade. 
-
-## RESOURCES
-**To be completed.**
-- [Emergency Helpline](mailto:6.s096-iap24-staff@mit.edu): for private concerns, issues, and questions (not course-content related).  
-- [Supplemental Resources](supplemental): a compilation of useful, external resources
+### <font color="#5B90E0">Project (30%)</font>
+Each registered student will have the option to write a small 2-3 page 'expository note' (which may be build slightly on lecture notes) counting up to 30% of their grade. 
 
 ## HELP
 Students are encouraged to consistently read lecture notes and actively participate in discussions (**Piazza**) This is intended to be a shared learning environment for all students in the class. 
