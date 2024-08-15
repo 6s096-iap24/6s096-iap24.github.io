@@ -26,8 +26,8 @@ Please fill in this google form if you're interested in the class so we can gaug
 <p></p>
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
-    <td><img src="{{ site.baseurl }}/images/mao_cropped.jpeg" width="100" alt="A. Anas Chentouf"/></td>
-    <td><img src="{{ site.baseurl }}/images/mao_cropped.jpeg" width="100" alt="Mohamed Wacyl Meddour"/></td>
+    <td><img src="{{ site.baseurl }}/images/anas.jpeg" width="100" alt="A. Anas Chentouf"/></td>
+    <td><img src="{{ site.baseurl }}/images/wacyl.jpeg" width="100" alt="Mohamed Wacyl Meddour"/></td>
     <td><img src="{{ site.baseurl }}/images/mao_cropped.jpeg" width="100" alt="Mohammed Ali Othman"/></td>
   </tr>
   <tr>
