@@ -15,7 +15,7 @@ The assessments will consist of weekly homeworks with a small, optional final pr
 ### Piazza
 This class will be using Piazza for class discussion. We encourage you to post your questions (whether about content or logistics) on Piazza. 
 
-The class sign-up link: https://piazza.com/mit/spring2024/6s096
+The class sign-up link: <a href = "https://piazza.com/mit/spring2024/6s096">https://piazza.com/mit/spring2024/6s096</a>.
 
 ### SIGN-UP FORM
 Please fill in this google form if you're interested in the class so we can gauge interest <a href="https://forms.gle/HKUuC7LAyuQXN3NN8">https://forms.gle/HKUuC7LAyuQXN3NN8</a>
@@ -26,9 +26,9 @@ Please fill in this google form if you're interested in the class so we can gaug
 <p></p>
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
-    <td><img src="{{ site.baseurl }}/images/anas_chentouf_cropped.png" width="100" alt="Abdellatif Anas Chentouf"/></td>
-    <td><img src="{{ site.baseurl }}/images/mohamed_meddour_cropped.png" width="100" alt="Mohamed Wacyl Meddour"/></td>
-    <td><img src="{{ site.baseurl }}/images/mohammed_othman_cropped.png" width="100" alt="Mohammed Ali Othman"/></td>
+    <td><img src="{{ site.baseurl }}/images/anas_chentouf_cropped.jpeg" width="100" alt="Abdellatif Anas Chentouf"/></td>
+    <td><img src="{{ site.baseurl }}/images/mohamed_meddour_cropped.jpeg" width="100" alt="Mohamed Wacyl Meddour"/></td>
+    <td><img src="{{ site.baseurl }}/images/mao_cropped.jpeg" width="100" alt="Mohammed Ali Othman"/></td>
   </tr>
   <tr>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Abdellatif Anas Chentouf</a> (Position)</td>
