@@ -10,7 +10,7 @@ Welcome to 6.S096! We are really excited to have you in class this IAP.
 ### DESCRIPTION
 Many applications in cryptography and theoretical computer science rely on number theory, which is often not taught with detail in introductory classes. In this class, we try to provide an exposition to these concepts. We begin with a quick review of the basics: Euclidean algorithm and modular arithmetic. We will then cover multiplicative modular arithmetic (Euler, Fermat), elements of group theory, the discrete logarithm problem, and elementary analytic number theory if time permits. There will be a slight focus on computational methods as well, using Sage and other Computer Algebra Systems.
 
-The assessments will consist of weekly homeworks with a small, optional final project. The expectation is that students have taken 6.042/6.1200 or a class at a similar level in discrete mathematics, as well as some coding experience.
+The assessments will consist of weekly homeworks with a small, optional final project. The expectation is that students are familiar with the basics of mathematical proofs (it is sufficient to have taken 6.042/6.1200 or a class at a similar level in discrete mathematics), as well as some coding experience.
 
 ### Piazza
 This class will be using Piazza for class discussion. We encourage you to post your questions (whether about content or logistics) on Piazza. 
@@ -42,8 +42,8 @@ Please fill in this google form if you're interested in the class so we can gaug
 ### LECTURE
 - Starting from Monday, January 22: Lectures Tuesday through Thursday @ 10:30am - 12pm in 32.255 (note the updated enrollment)
 - Lectures are in-person and over Zoom, but will *not* be recorded, although lecture notes will be released.
-- Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone
-
+- Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone.
+- The schedule for lecture, as well as some of the notes, is provided in <a href="{{ site.baseurl }}/schedule">Schedule</a>. We expect that most, but not all, lectures will be scribed.
 ### OFFICE HOURS
 - See Piazza for details. 
 
