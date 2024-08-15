@@ -26,14 +26,14 @@ Please fill in this google form if you're interested in the class so we can gaug
 <p></p>
 <table align="center" style="background-color:#FFFFFF" border="0px">
   <tr>
-    <td><img src="{{ site.baseurl }}/images/anas_chentouf_cropped.jpeg" width="100" alt="Abdellatif Anas Chentouf"/></td>
-    <td><img src="{{ site.baseurl }}/images/mohamed_meddour_cropped.jpeg" width="100" alt="Mohamed Wacyl Meddour"/></td>
+    <td><img src="{{ site.baseurl }}/images/anas_cropped.jpeg" width="100" alt="Abdellatif Anas Chentouf"/></td>
+    <td><img src="{{ site.baseurl }}/images/wacyl_cropped.jpeg" width="100" alt="Mohamed Wacyl Meddour"/></td>
     <td><img src="{{ site.baseurl }}/images/mao_cropped.jpeg" width="100" alt="Mohammed Ali Othman"/></td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Abdellatif Anas Chentouf</a> (Position)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Mohamed Wacyl Meddour</a> (Position)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Mohammed Ali Othman</a> (Position)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Mohamed Wacyl Meddour</a> (Instructor)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Mohammed Ali Othman</a> (Instructor)</td>
+    <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Abdellatif Anas Chentouf</a> (Instructor)</td>
   </tr>
 </table>
 
