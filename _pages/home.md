@@ -46,6 +46,7 @@ Please fill in this google form if you're interested in the class so we can gaug
 - Attendance and active participation is *highly encouraged* to facilitate an enriching learning environment for everyone.
 - The schedule for lecture, as well as some of the notes, is provided in <a href="{{ site.baseurl }}/schedule">Schedule</a>. We expect that most, but not all, lectures will be scribed.
 ### OFFICE HOURS
+
 - See Piazza for details. 
 
 
