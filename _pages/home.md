@@ -4,8 +4,7 @@ title: Home
 permalink: /
 ---
 ## OVERVIEW
-Welcome to 6.S096! We are really excited to have you in class this IAP. 
-
+Welcome to 6.S096! This is the webpage for 6.S096, offered in IAP 2024. We plan to offer the same course again in IAP 2025.
 
 ### DESCRIPTION
 Many applications in cryptography and theoretical computer science rely on number theory, which is often not taught with detail in introductory classes. In this class, we try to provide an exposition to these concepts. We begin with a quick review of the basics: Euclidean algorithm and modular arithmetic. We will then cover multiplicative modular arithmetic (Euler, Fermat), elements of group theory, the discrete logarithm problem, and elementary analytic number theory if time permits. There will be a slight focus on computational methods as well, using Sage and other Computer Algebra Systems.
