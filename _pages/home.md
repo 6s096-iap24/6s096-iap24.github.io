@@ -31,9 +31,10 @@ Please fill in this google form if you're interested in the class so we can gaug
     <td><img src="{{ site.baseurl }}/images/mao_cropped.jpeg" width="100" alt="Mohammed Ali Othman"/></td>
   </tr>
   <tr>
+  <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Abdellatif Anas Chentouf</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Mohamed Wacyl Meddour</a> (Instructor)</td>
     <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Mohammed Ali Othman</a> (Instructor)</td>
-    <td align="center" style="background-color:#FFFFFF" border="0"><a href="#">Abdellatif Anas Chentouf</a> (Instructor)</td>
+    
   </tr>
 </table>
 
